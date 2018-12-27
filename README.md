@@ -9,7 +9,6 @@
 
 # Android扫码下载APK
 - 请使用手机浏览器扫码下载，不要使用微信或者qq扫码
-- <img src='./screenshots/qrcode.png'>
 - 增加了splashscreen，模拟了登录模块
 - 支持拍照和读取本地照片
 # 功能
@@ -28,37 +27,4 @@
 2. 受开源中国openapi的限制，获取动弹数据需要登录，由于openapi的资讯接口提供的数据比较简单，故资讯部分采用python爬取的网页数据
 3. 本项目纯属个人兴趣爱好而写，不是开源中国官方版本，源代码仅供学习交流，实际使用请下载安装开源中国[官方APP](https://www.oschina.net/app)
 
-# 截图
-#### iOS
-<div>
-    <img src='./screenshots/ios01.png' width=280>
-    <img src='./screenshots/ios02.png' width=280>
-    <img src='./screenshots/ios10.png' width=280>
-</div>
-<div>
-    <img src='./screenshots/ios04.png' width=280>
-    <img src='./screenshots/ios05.png' width=280>
-    <img src='./screenshots/ios06.png' width=280>
-</div>
-<div>
-    <img src='./screenshots/ios07.png' width=280>
-    <img src='./screenshots/ios08.png' width=280>
-    <img src='./screenshots/ios09.png' width=280>
-</div>
 
-#### Android
-<div>
-    <img src='./screenshots/android01.jpg' width=280>
-    <img src='./screenshots/android02.jpg' width=280>
-    <img src='./screenshots/android03.jpg' width=280>
-</div>
-<div>
-    <img src='./screenshots/android04.jpg' width=280>
-    <img src='./screenshots/android05.jpg' width=280>
-    <img src='./screenshots/android06.jpg' width=280>
-</div>
-<div>
-    <img src='./screenshots/android07.jpg' width=280>
-    <img src='./screenshots/android08.jpg' width=280>
-    <img src='./screenshots/android09.jpg' width=280>
-</div>
