@@ -1,4 +1,4 @@
-# FlutterOSC
+# FlutterAPP
 - 基于Google Flutter的开源中国客户端，支持Android和iOS。
 -参考了
   [GitHub戳这里](https://github.com/soonwen/flutter_app)
